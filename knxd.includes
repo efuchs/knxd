@@ -1,0 +1,12 @@
+.
+debian/knxd-dev/usr/include
+debian/tmp/usr/include
+src/backend
+src/client/c
+src/common
+src/examples
+src/include
+src/libserver
+src/server
+src/tools/bcu
+src/usb
